@@ -1,0 +1,38 @@
+.st {
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+}
+
+html, body{
+    height: 100%;
+}
+
+.cen {
+    margin-left: 40%;
+}
+
+.line {
+    display: block;
+}
+
+button {
+    margin-top: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: -25%;
+}
+
+td, th {
+    padding: 5px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+}
+th {
+    background: #b0e0e6; /* Цвет фона */
+}
+
+comment {
+    margin: 5px;
+}
